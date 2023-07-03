@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "jsonlogic",
+        "repositoryURL": "https://github.com/BRZ-GmbH/json-logic-swift.git",
+        "state": {
+          "branch": "feature/avoid-date-parsing-attempts",
+          "revision": "877692ea3135e9e5f4ac427836e6b8325a4d6b39",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
